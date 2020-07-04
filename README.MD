@@ -1,11 +1,11 @@
-#About
+# About
 This script grabs the tweets from the people you follow on the twitter and mail the tweets to the mailid you provide .
 The purpose of the script is to get the tweets of only people you need.I have developed this script just to gratify my hungry of exploring :)
-#Description
+# Description
 - I have used **tweepy API** ,**smtplib** in the script .
 - The file _stream.py_ streams through the twitter and grabs the tweets .
 - The file _email_s.py_ mails the tweets to the gmailid you provide in the script.
-#Instructions to Run the script
+# Instructions to Run the script
 - In order to run the script first get the local Repo of this.
 - Create virtual environment and install the packages: 
     - tweepy
