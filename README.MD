@@ -10,7 +10,7 @@ The purpose of the script is to get the tweets of only people you need.I have de
 - Create virtual environment and install the packages: 
     - tweepy
     - smtplib
-#Things to know:
+# Things to know:
 - This script works only with g-mail accounts.
 - Before using the g-mail make sure you change the settings in the _manage account_ section to allow acces to third party apps.
 - In order to use the script you need to have twitter [developer account](https://developer.twitter.com/en) ,because the script needs 
