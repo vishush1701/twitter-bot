@@ -4,7 +4,7 @@ import stream_s
 
 email = EmailMessage()
 email['from'] = '<from mail id >'
-email['to'] = '<to mail id'
+email['to'] = '<to mail id>'
 email['subject'] = f"Timeline tweets from{stream_s.following}"
 
 stream_s.get_tweets()
